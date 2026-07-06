@@ -1,3 +1,3 @@
 # Machine Learning Examples 🤖
 
-¡Bienvenido! Este repositorio contiene una colección de programas, scripts y notas sobre **Machine Learning clásico**. El objetivo es servir como referencia para algoritmos tradicionales, procesamiento de datos y modelos predictivos.
+Welcome! This repository contains a collection of programs, scripts, and notes on **Classical Machine Learning**. Its purpose is to serve as a reference for traditional algorithms, data processing, and predictive models.
